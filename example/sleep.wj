@@ -1,0 +1,5 @@
+let sec = 1000;
+println "start!";
+sleep 10 * $sec; // sleep for 10 second!
+println "end!";
+yee 0;
