@@ -1,0 +1,3 @@
+let error_message = input "Enter Error Mesage: ";
+roar $error_message;
+yee 0; // Unreachable!
