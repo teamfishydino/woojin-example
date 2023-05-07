@@ -1,0 +1,4 @@
+let two = 1 + 1;
+let four = $two * 2;
+println $four;
+yee 0;
